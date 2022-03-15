@@ -1,3 +1,5 @@
 Valeria Guerra Sotomayor 
 21
 Comprender los conceptos de POO para implementar proyectos en estadistica
+Ahora si se puede subir la carpeta por que ya no está vacía 
+Porque genera conflictos en nuestro repositorio
